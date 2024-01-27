@@ -1,5 +1,5 @@
 # Where Am I(Osint)
-#### Zorluk: Easy
+#### Zorluk: Medium
 
 ## Soru
 ![Soru](https://github.com/K4lender/HuntressCTF23_WriteUps/blob/main/OSINT/Where_Am_I/Where_Am_i.png)
