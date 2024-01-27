@@ -1,5 +1,5 @@
 # Operation Not Found(Osint)
-#### Zorluk: Easy
+#### Zorluk: Medium
 
 ## Soru 
 ![Soru](https://github.com/K4lender/HuntressCTF23_WriteUps/blob/main/OSINT/Operation_Not_Found/Operation_Not_Found.png)
