@@ -1,5 +1,5 @@
 # Under The Bridge(Osint)
-#### Zorluk: Easy
+#### Zorluk: Medium
 
 ## Soru 
 ![Soru](https://github.com/K4lender/HuntressCTF23_WriteUps/blob/main/OSINT/Under_The_Bridge/Under_The_Bride.png)
