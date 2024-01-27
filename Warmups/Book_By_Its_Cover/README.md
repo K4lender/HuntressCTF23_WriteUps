@@ -1,7 +1,7 @@
 # Book By Its Cover(Warmups)
 #### Zorluk: Easy
 
-## Soru `
+## Soru 
 ![Soru](https://github.com/K4lender/HuntressCTF23_WriteUps/blob/main/Warmups/Book_By_Its_Cover/Book_By_Its_Cover.png)
 
 ## Çözüm
