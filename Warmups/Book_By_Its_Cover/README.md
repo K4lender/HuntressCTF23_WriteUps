@@ -8,6 +8,7 @@
 verilen dosyayı açmaya çalıştığımız zaman bize arşiv bozuk hatası veriyor. Dosyayı kontrol etmek için ilk başta magic bytlerını kontrol etmek istedim. 
 
 ![](https://github.com/K4lender/HuntressCTF23_WriteUps/blob/main/Warmups/Book_By_Its_Cover/Screenshot_3.png)
+
 "File" komutu ile dosyayı kontrol ettiğimde dosyanın .rar ile kayıt edilmesine rağmen magic byte'ları png olduğunu söylüyor. Bende "book.rar" olan dosyasını "book.png" olarak değiştirdim.
 
 ![](https://github.com/K4lender/HuntressCTF23_WriteUps/blob/main/Warmups/Book_By_Its_Cover/Screenshot_2.png)
