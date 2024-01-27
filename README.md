@@ -2,10 +2,10 @@
 
 Bu repo, [Huntress CTF Yarışması](https://huntress.ctf.games/scoreboard) sorularının writeup'larını içerir. Aşağıda, her soru için writeup'ları bulabilirsiniz.
 
-- [Huntress CTF 23](https://huntress.ctf.games/challenges): CTF Yarışmasının linki.
-
 ![](https://github.com/K4lender/HuntressCTF23_WriteUps/blob/main/HuntressCTF.png)
 
+CTF Yarışmasının linki : [Huntress CTF 23](https://huntress.ctf.games/challenges)
+  
 ## Warmups
 
 [Baking](/Warmups/Baking/) | [BaseFFFF+1](/Warmups/BaseFFFF%2B1/) | [Book_By_Its_Cover](/Warmups/Book_By_Its_Cover/) | [CeaserMirror](/Warmups/CeaserMirror/) |
